@@ -1,0 +1,2 @@
+V	191128095641Z		1000	unknown	/C=ES/ST=Granada/O=UGR-SPSI/OU=SPSI/CN=SPSI-CA/emailAddress=agomezm@correo.ugr.es
+V	191128101037Z		1001	unknown	/C=ES/ST=Granada/O=UGR-SPSI/OU=SPSI/CN=SPSI-CA2/emailAddress=agomezm@correo.ugr.es
